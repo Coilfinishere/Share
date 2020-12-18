@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+某乎笑话分享
 
-You can use the [editor on GitHub](https://github.com/Coilfinishere/Share/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1.“等于400!”震惊!小明仅用时2秒就打破男子4乘100记录
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2.某当红流量小生被爆最喜欢的颜色是僵尸粉
 
-### Markdown
+3.有个人去德铁面试，迟到了15分钟。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+面试官问他，“您知道您迟到了15分钟吗？”
 
-```markdown
-Syntax highlighted code block
+“知道啊。我不在乎。”
 
-# Header 1
-## Header 2
-### Header 3
+“恭喜您被录取了！”
 
-- Bulleted
-- List
+4.施罗德，菲舍尔和默克尔在路经德国的飞机上。
 
-1. Numbered
-2. List
+施罗德说：“如果我往下面扔1张一百块钱，会有1个德国人很开心！“
 
-**Bold** and _Italic_ and `Code` text
+菲舍尔说：“如果我往下面扔10张十块钱，会有10个德国人很开心！”
 
-[Link](url) and ![Image](src)
-```
+默克尔说：“如果我往下面扔100个一块钱的硬币，会有100个德国人很开心！”
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+然后机长说：“如果你们再不闭嘴，我就把你们三个都扔下去，整个德国都会很开心！”
 
-### Jekyll Themes
+5.Peter：“加油，Kevin！”
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Coilfinishere/Share/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Kevin：“谢谢 :)”
 
-### Support or Contact
+Peter：“Kevin，加油！！！”
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Kevin：“好的，谢谢你 :)”
+
+Peter：“这是柴油，大哥，我让你加汽油！!”
+
+（Kevin在这里特指很笨的小孩，德国上世纪90年代，Kevin曾经是一个很受欢迎的名字，后来不知道怎么演变成了笨小孩的代称）
